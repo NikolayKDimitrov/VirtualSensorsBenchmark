@@ -4,8 +4,8 @@
     "n_exp": 10,
     "fs": {
         "s3": false,
-        "endpoint": "http://minio.10.68.0.250.nip.io:80",
-        "access": "minio",
-        "secret": "minio_key"
+        "endpoint": "http://xxxx",
+        "access": "xxxx",
+        "secret": "xxxx"
     }
 }
